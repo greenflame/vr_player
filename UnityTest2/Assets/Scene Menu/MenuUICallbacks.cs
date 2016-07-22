@@ -2,7 +2,7 @@
 using UnityEngine.SceneManagement;
 using System.Collections;
 
-public class UICallbacks : MonoBehaviour {
+public class MenuUICallbacks : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {

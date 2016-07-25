@@ -29,6 +29,11 @@ public class MenuUICallbacks : MonoBehaviour {
         SceneManager.LoadScene("SceneAR");
     }
 
+    public void onVR2click()
+    {
+        SceneManager.LoadScene("Scene GCB_AR");
+    }
+
     public void onBackClick()
     {
         SceneManager.LoadScene("SceneMenu");
